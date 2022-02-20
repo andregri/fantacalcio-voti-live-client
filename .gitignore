@@ -1,0 +1,11 @@
+--2022-02-20 22:03:51--  https://raw.githubusercontent.com/github/gitignore/main/Go.gitignore
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.110.133, 185.199.108.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 478 [text/plain]
+Saving to: ‘Go.gitignore.2’
+
+     0K                                                       100% 16,0M=0s
+
+2022-02-20 22:03:51 (16,0 MB/s) - ‘Go.gitignore.2’ saved [478/478]
+
